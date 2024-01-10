@@ -28,6 +28,11 @@ body {
     padding: 20px;
 }
 
+.containerr {
+    padding-left: 12rem;
+    padding-right: 12rem;
+}
+
 .scroll {
     scroll-behavior: smooth;
 }
