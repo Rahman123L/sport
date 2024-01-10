@@ -3,7 +3,7 @@
 :root {
     --bg-body-color: #2C2F62;   /* Warna Hijau Background Body */
     --bg-navbar-color: #984063;   /* Warna Hijau Background Navbar */
-    --bg-footer-color: #D9D9D9;   /* Warna Hijau Background Footer */
+    --bg-footer-color: #F3EEEA;   /* Warna Hijau Background Footer */
     --bg-card-color: #D9D9D9;   /* Warna Abu-abu Background Card */
     --bg-tag-color: #BF3131;   /* Warna Merah Background Tag */
     
@@ -663,6 +663,7 @@ input {
 /* Form Start */
 
 .form-container h2 {
+    font-family: inter;
     font-size: 18px;
     font-weight: 600;
     text-align: center;
@@ -674,7 +675,10 @@ input {
 }
 
 .form-group label {
+    font-family: inter;
     display: block;
+    font-size: 14px;
+    font-weight: 400;
     margin-bottom: 5px;
     color: var(--text-color-black);
 }
