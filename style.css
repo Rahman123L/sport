@@ -733,6 +733,11 @@ svg {
         display: none;
     }
 
+    .containerr {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
     .justify-centerr {
         display: block;
         gap: 10rem;
